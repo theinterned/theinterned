@@ -1,4 +1,5 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=theinterned&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=theinterned&redirect=true)
+<!-- Thank you https://github.com/kittinan/spotify-github-profile -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=theinterned&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=theinterned&redirect=true)
 
 <!--
 **theinterned/theinterned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
